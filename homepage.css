@@ -1,0 +1,48 @@
+.jumbotron{
+    background-image: url(background.jpg);
+    color: white;
+    text-align: center;
+}
+
+hr{
+    padding:auto;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width:58%;
+
+}
+
+.card{
+    border: none;
+}
+h4{
+    text-align: center;
+    margin-top:20px;
+    margin-bottom: 20px;
+}
+img{
+    height:200px;
+    width:200px;
+}
+a > img {
+        border: 1px solid #ddd;
+        border-radius: 4px;
+        padding: 5px;
+        width: 150px;
+      }
+
+.row{
+    margin-top:10px;
+    margin-bottom: 10px;
+}
+.footer{
+    background-color:sandybrown;
+    
+    width:100%;
+    left: 0;
+  bottom: 0;
+
+}
+.modal-footer{
+    text-align: center;
+}
